@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bedrock"
+        },
+        "title": "欢迎来到DogWing的妙妙屋",
+        "description": "Ass！114514",
+        "background": ""
+    },
+    "criteria": {
+        "in": {
+            "trigger": "minecraft:location"
+        }
+    }
+}

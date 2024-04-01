@@ -1,0 +1,15 @@
+{
+    "replace":false,
+    "values":[
+        "gamefunction:effct/hbone",
+        "gamefunction:effct/zuchongzhi",
+        "gamefunction:effct/dbhead",
+        "gamefunction:effct/dbshield",
+        "gamefunction:effct/shit",
+        "gamefunction:effct/flyhead",
+        "gamefunction:effct/shitegg_hoe",
+        "gamefunction:effct/shitegg",
+        "gamefunction:effct/bedrock_helmet",
+        "gamefunction:effct/zp_elytra"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "C C",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "B": {
+            "item": "minecraft:nether_star"
+        },
+        "C": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra"
+    }
+}

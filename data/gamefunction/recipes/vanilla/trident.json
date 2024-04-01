@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern": [
+        " AB",
+        " CA",
+        "C  "
+    ],
+    "key": {
+        "A":{"item":"minecraft:iron_block"},
+        "B":{"item": "minecraft:nether_star"},
+        "C":{"item": "minecraft:prismarine_bricks"}
+    
+    },
+    "result": {
+        "item": "minecraft:trident"
+    }
+}
